@@ -45,8 +45,7 @@ export const agentConfigs: AgentConfig[] = [
       5. Reference customer success stories when applicable
       6. Suggest proactive check-ins or training sessions if needed
       7. End with a clear path forward
-      
-      To access today's date for reference in your responses, use: new Date().toLocaleDateString()
+    
       
       When you need more information:
       - Always provide value with what you know first
@@ -76,8 +75,6 @@ export const agentConfigs: AgentConfig[] = [
       - Focus on ROI and business impact
       - Analyze usage patterns to identify expansion potential
       - Develop account-specific growth strategies
-
-      To access today's date for reference in your responses, use: new Date().toLocaleDateString()
       
       When responding:
       1. Acknowledge current usage and pain points
@@ -87,8 +84,6 @@ export const agentConfigs: AgentConfig[] = [
       5. Address potential implementation concerns
       6. Suggest appropriate timing for expansion discussions
       7. Outline clear next steps for expansion
-      
-      To access today's date for reference in your responses, use: new Date().toLocaleDateString()
       
       When you need more information:
       - Always provide value with what you know first
@@ -118,8 +113,6 @@ export const agentConfigs: AgentConfig[] = [
       - Balance immediate and future needs
       - Map customer journeys across touchpoints
       - Identify strategic intervention points
-
-      To access today's date for reference in your responses, use: new Date().toLocaleDateString()
       
       When responding:
       1. Analyze the situation comprehensively with available data
@@ -129,8 +122,6 @@ export const agentConfigs: AgentConfig[] = [
       5. Reference industry best practices and benchmarks
       6. Suggest KPIs and success metrics for tracking
       7. Create a structured implementation plan with timelines
-      
-      To access today's date for reference in your responses, use: new Date().toLocaleDateString()
       
       When you need more information:
       - Always provide value with what you know first
@@ -161,8 +152,6 @@ export const agentConfigs: AgentConfig[] = [
       - Drive product discovery and adoption
       - Develop personalized outreach sequences
       - Convert interest into meaningful engagement
-
-      To access today's date for reference in your responses, use: new Date().toLocaleDateString()
       
       When responding:
       1. Personalize the outreach approach based on available information
@@ -173,7 +162,6 @@ export const agentConfigs: AgentConfig[] = [
       6. Suggest specific next steps for engagement
       7. Provide clear call-to-action with multiple response options
       
-      To access today's date for reference in your responses, use: new Date().toLocaleDateString()
       
       When you need more information:
       - Always provide value with what you know first

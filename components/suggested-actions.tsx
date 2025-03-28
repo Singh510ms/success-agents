@@ -20,7 +20,7 @@ function PureSuggestedActions({ chatId, selectedModelId, append }: SuggestedActi
     {
       title: 'How can I reduce',
       label: 'and address customer churn?',
-      action: 'How can I identify early warning signs of customer dissatisfaction and develop a proactive retention strategy?',
+      action: 'How can I develop a proactive retention strategy?',
     },
     {
       title: 'What are the best strategies',
@@ -30,7 +30,7 @@ function PureSuggestedActions({ chatId, selectedModelId, append }: SuggestedActi
     {
       title: 'How can I re-engage',
       label: 'low usage or dormant accounts?',
-      action: "Help me create an effective campaign to re-engage dormant customer accounts that haven't been active in the last 6 months.",
+      action: "Help me create an effective campaign to re-engage dormant customer accounts?",
     },
     {
       title: 'How can I develop',
@@ -52,9 +52,9 @@ function PureSuggestedActions({ chatId, selectedModelId, append }: SuggestedActi
       action: 'What elements should I include in the customer success plan to ensure long-term satisfaction?',
     },
     {
-      title: 'Explain AI vs ML',
-      label: 'in simple terms for a non-technical audience',
-      action: 'What specific aspects of AI and machine learning would you like me to explain?',
+      title: 'Customer health scoring',
+      label: 'best practices for implementation',
+      action: 'What are the best practices for implementing a customer health scoring system that helps predict churn and identify at-risk accounts?',
     },
     {
       title: 'Enhancing customer interactions',
